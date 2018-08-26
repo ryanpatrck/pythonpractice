@@ -1,1 +1,1 @@
-print "Hi"
+print ("New Day Rocks!!")
